@@ -47,6 +47,8 @@ import it.unisalento.se.saw.Iservices.IUserService;
 import it.unisalento.se.saw.domain.User;
 import it.unisalento.se.saw.exceptions.UserNotFoundException;
 
+//MODIFICA EFFETTUATA
+
 @RunWith(MockitoJUnitRunner.class)
 public class UserRestControllerTest {
 
